@@ -1,3 +1,27 @@
+*Implement logical process for analyzing customer data.*
+
+**Analysis of Card Cancellation Reasons Using Customer Data**
+
+1. Database Import:
+    - Import the database containing customer information.
+
+2. Database Viewing and Processing:
+    - Perform the initial data visualization.
+    - Treat and clean data to ensure the accuracy and integrity of the analysis.
+
+3. Development of Analysis to Identify Reasons for Cancellation:
+    - Check if there is a worrying pattern of cancellations, based on the analysis of the relationship between active and canceled customers.
+    - Identification of Cancellation Factors: Determine the main reasons that lead to credit card cancellation.
+    - Analysis Method: Compare active and canceled customers using histograms for each column in the database.
+
+5. Documentation and Report:
+    - Create a PDF with all generated histograms.
+    - Analyze the histograms.
+    - Prepare a detailed report with the results of the analysis.
+    - Export the conclusions to a .txt file.
+
+------------------------------------------------------------------------------------
+
 *Processo lógico do exercício para análise de dados de clientes.*
 
 **Análise das Razões para o Cancelamento de Cartões com Base em Dados de Clientes**
